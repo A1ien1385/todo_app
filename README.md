@@ -1,3 +1,9 @@
+# Po prostu todo apka :)
+
+# Just todo_app
+
+# Used technologies: just React ;)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
