@@ -1,6 +1,6 @@
 # Po prostu todo apka :)
 
-# Just todo_app
+# Just todo_app :)
 
 # Used technologies: just React ;)
 
