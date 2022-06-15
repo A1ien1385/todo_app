@@ -21,13 +21,13 @@ function TodoForm(props) {
     <form className="todo-form" onSubmit={handleSubmit}>
       <input
         type="text"
-        placeholder="Add task"
+        placeholder="Dodaj zadanie"
         value={input}
         name="text"
         className="todo-input"
         onChange={handleChange}
       ></input>
-      <button className="todo-button">Add new task</button>
+      <button className="todo-button">Dodaj nowe zadanie</button>
     </form>
   );
 }
