@@ -2,7 +2,7 @@
 
 # Just todo_app :)
 
-# Used technologies: just React ;)
+# Used technologies: just React, and CSS Grid ;)
 
 # Getting Started with Create React App
 
