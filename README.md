@@ -6,7 +6,7 @@
 
 # Getting Started with Create React App
 
-# AWS: https://main.d37ydcn4d3jte7.amplifyapp.com/
+# AWS: https://main.dpam1403axwxy.amplifyapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
